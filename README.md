@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kunalkr08/leetcode-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Kunalkr08/leetcode-solution/tree/master/3643-flip-square-submatrix-vertically) |
 ## Two Pointers
 |  |
@@ -14,5 +15,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kunalkr08/leetcode-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Kunalkr08/leetcode-solution/tree/master/3643-flip-square-submatrix-vertically) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kunalkr08/leetcode-solution/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 <!---LeetCode Topics End-->
