@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Kunalkr08/leetcode-solution/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Kunalkr08/leetcode-solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Kunalkr08/leetcode-solution/tree/master/3643-flip-square-submatrix-vertically) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Kunalkr08/leetcode-solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/Kunalkr08/leetcode-solution/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Two Pointers
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/Kunalkr08/leetcode-solution/tree/master/3891-minimum-increase-to-maximize-special-indices) |
+## Hash Table
+|  |
+| ------- |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Kunalkr08/leetcode-solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 <!---LeetCode Topics End-->
