@@ -37,10 +37,6 @@ public:
             v.push_back(it);
         }
 
-        // for(auto& [x,y]: v){
-        //     cout<<x<<" "<<y<<endl;
-        // }
-
         ll ans=0;
         ll cnt=0;
         for(ll i=0; i<(ll)v.size(); i++){
@@ -61,8 +57,12 @@ public:
 /*
    conditions
    
-   1. if numbers of one count is same then sort the data based on zero and keep the minimum zero  
-      count first and then max one later.
+   condition when number of zero count is zero.
+   1. if number of zero count is zero then keep this in very last so that it will helps us to maximise the result.
+
+   condition when number of zero count is greater then zero.
+   1. if numbers of one count is same then sort the data based on zero count and keep the maximun zero  
+      count first and then minimum zero later.
 
    2. if number of one count is more then anyway we have to sort the data based on higher   
       count of one.
