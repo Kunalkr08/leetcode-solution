@@ -51,12 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!-- LEETCODE-SYNC:START -->
 ## Statistics
 
-- **Total problems:** 1
-- **Easy:** 0 · **Medium:** 0 · **Hard:** 1
+- **Total problems:** 2
+- **Easy:** 0 · **Medium:** 1 · **Hard:** 1
 
 ## Solved Problems
 
 | Problem | Difficulty | Language | Topic | Solution |
 |---|---|---|---|---|
 | Minimum Operations to Make Elements Within K Subarrays Equal | Hard | java | Array | [View](./array/minimum-operations-to-make-elements-within-k-subarrays-equal/solution.java) |
+| Perfect Squares | Medium | java | Math | [View](./math/perfect-squares/solution.java) |
 <!-- LEETCODE-SYNC:END -->
