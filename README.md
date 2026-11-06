@@ -51,13 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!-- LEETCODE-SYNC:START -->
 ## Statistics
 
-- **Total problems:** 3
-- **Easy:** 0 · **Medium:** 2 · **Hard:** 1
+- **Total problems:** 4
+- **Easy:** 0 · **Medium:** 3 · **Hard:** 1
 
 ## Solved Problems
 
 | Problem | Difficulty | Language | Topic | Solution |
 |---|---|---|---|---|
+| Count Zero Request Servers | Medium | java | Array | [View](./array/count-zero-request-servers/solution.java) |
 | Longest Palindromic Subsequence | Medium | java | String | [View](./string/longest-palindromic-subsequence/solution.java) |
 | Minimum Operations to Make Elements Within K Subarrays Equal | Hard | java | Array | [View](./array/minimum-operations-to-make-elements-within-k-subarrays-equal/solution.java) |
 | Perfect Squares | Medium | java | Math | [View](./math/perfect-squares/solution.java) |
