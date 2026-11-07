@@ -51,8 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!-- LEETCODE-SYNC:START -->
 ## Statistics
 
-- **Total problems:** 4
-- **Easy:** 0 · **Medium:** 3 · **Hard:** 1
+- **Total problems:** 5
+- **Easy:** 0 · **Medium:** 4 · **Hard:** 1
 
 ## Solved Problems
 
@@ -62,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Longest Palindromic Subsequence | Medium | java | String | [View](./string/longest-palindromic-subsequence/solution.java) |
 | Minimum Operations to Make Elements Within K Subarrays Equal | Hard | java | Array | [View](./array/minimum-operations-to-make-elements-within-k-subarrays-equal/solution.java) |
 | Perfect Squares | Medium | java | Math | [View](./math/perfect-squares/solution.java) |
+| Process Tasks Using Servers | Medium | java | Array | [View](./array/process-tasks-using-servers/solution.java) |
 <!-- LEETCODE-SYNC:END -->
